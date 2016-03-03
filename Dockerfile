@@ -1,4 +1,4 @@
-FROM  index.alauda.cn/asiainfoldp/alpine5
+FROM  index.alauda.cn/asiainfoldp/alpine4
 
 #MAINTAINER alex <alexwhen@gmail.com> 
 
